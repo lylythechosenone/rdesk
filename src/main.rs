@@ -1,6 +1,5 @@
 #![feature(never_type)]
 
-use crate::client::ClientContext;
 use crate::host::HostContext;
 use scrap::Display;
 use std::net::SocketAddr;
